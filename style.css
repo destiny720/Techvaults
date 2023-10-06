@@ -209,9 +209,12 @@ button:hover{
     background: #f8f3f3c4;
     color: #000;
 }
+html{
+    scroll-behavior: smooth;
+}
 
 /*------------------About-page--------------*/
-.about{
+#about{
     background: #130F2B !important;
     opacity: 0.7;
 }
